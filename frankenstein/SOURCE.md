@@ -5,7 +5,7 @@
 - 판본: 1831년 개정판 계열
 - 소스 경로 (표준): `https://raw.githubusercontent.com/GITenberg/Frankenstein_84/master/84.txt` (GITenberg 미러)
 - 소스 경로 (예비): Project Gutenberg eBook #84 (gutenberg.org/ebooks/84)
-- 판본 검증 마커: 검증 완료 (2026-07-06) — "mine to protect", "pretty present for my Victor" 두 마커 모두 ch-01.txt에서 확인
+- 판본 검증 마커: 검증 완료 (2026-07-06)
 - 저작권 상태: 퍼블릭 도메인
 - 정규화 내역:
   - CRLF → LF 개행 정규화 (원본 개행 구조·문단 배치는 그대로 유지, `\r`만 제거)
