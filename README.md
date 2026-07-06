@@ -1,32 +1,34 @@
 # chaekbi-sources
 
 책비(冊秘) 제작 파이프라인에서 사용하는 퍼블릭 도메인 원문 저장소.
-판본 검증과 정규화를 마친 상태로 챕터 단위 텍스트 파일을 보관해, 매 제작 세션마다
-원문 파싱을 반복하지 않고 필요한 챕터만 바로 받아 쓸 수 있도록 한다.
 
-## Frankenstein (프랑켄슈타인)
+이 repo의 모든 텍스트는 퍼블릭 도메인 원문이며, 정규화(개행 정리·챕터 분할) 외
+내용 수정이 없다. 책비(chaekbi.com)의 각색 저작물과는 별개다.
 
-- **출처**: Project Gutenberg eBook #84, [GITenberg 미러](https://github.com/GITenberg/Frankenstein_84)
-  (`raw.githubusercontent.com/GITenberg/Frankenstein_84/master/84.txt`)
-- **판본**: 1831년 개정판 계열
-- **저작권**: 퍼블릭 도메인
-- **정규화 내역**:
-  - CRLF → LF 개행 정규화 (원본 개행 구조·문단 배치는 그대로 유지, `\r`만 제거)
-  - 원문 텍스트 자체는 무수정 (문장·철자·구두점 변경 없음)
-  - Letter 1~4(월튼의 편지, 프롤로그)와 Chapter 1~24로 챕터 단위 분할
-  - Project Gutenberg 라이선스 보일러플레이트(머리말/꼬리말)는 제외하고 본문만 저장
+## 구조
 
-### 파일 구조
+- 폴더 하나 = 작품 하나.
+- 각 작품 폴더 안의 `SOURCE.md`가 그 작품의 출처·판본·저본 선정 근거를 기록한다.
+  원문 텍스트를 가져오거나 재검증할 때는 반드시 해당 작품의 `SOURCE.md`를 먼저 확인한다.
+- 뿌리/장르/줄기 등 편집 지침(각색 가이드)은 이 repo의 대상이 아니다. 여기에는
+  정규화된 원문만 둔다.
 
-```
-frankenstein/
-  letter-01.txt ~ letter-04.txt   # 월튼의 편지 (프롤로그)
-  ch-01.txt ~ ch-24.txt           # 본문 챕터 (2자리 zero-pad)
-pg84.txt                          # 원문 전체 (CRLF 정규화만 적용, 미분할)
-```
+## 파일 단위 원칙
 
-### 접근 예시
+- **연재형 작품** (장 단위로 순서가 이어지는 소설): `ch-XX.txt` (2자리 zero-pad)
+- **옴니버스형 작품** (독립된 편/이야기의 모음): 편별 개별 파일,
+  예) `tale-XXX.txt` (3자리 zero-pad)
+  - 편 이름/번호 규칙은 작품마다 다를 수 있으므로 해당 작품의 `SOURCE.md`에 명시한다.
 
-```
-https://raw.githubusercontent.com/banbanworks-studio/chaekbi-sources/main/frankenstein/ch-12.txt
-```
+## 작품 목록
+
+| 폴더 | 작품 | 유형 |
+|---|---|---|
+| [frankenstein/](frankenstein/) | 프랑켄슈타인 | 연재형 |
+| [pride-and-prejudice/](pride-and-prejudice/) | 오만과 편견 | 연재형 |
+| [monte-cristo/](monte-cristo/) | 몬테크리스토 백작 | 연재형 |
+| [honggildong/](honggildong/) | 홍길동전 | 연재형 |
+| [liaozhai/](liaozhai/) | 요재지이 | 옴니버스 |
+| [ugetsu/](ugetsu/) | 우게츠 이야기 | 옴니버스 |
+| [samguk-yusa/](samguk-yusa/) | 삼국유사 | 옴니버스 |
+| [kim-yujeong/](kim-yujeong/) | 김유정 단편집 | 옴니버스 |
