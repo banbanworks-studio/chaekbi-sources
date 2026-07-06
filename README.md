@@ -28,6 +28,7 @@
 | [pride-and-prejudice/](pride-and-prejudice/) | 오만과 편견 | 연재형 |
 | [monte-cristo/](monte-cristo/) | 몬테크리스토 백작 | 연재형 |
 | [honggildong/](honggildong/) | 홍길동전 | 연재형 |
+| [dracula/](dracula/) | 드라큘라 | 연재형 |
 | [liaozhai/](liaozhai/) | 요재지이 | 옴니버스 |
 | [ugetsu/](ugetsu/) | 우게츠 이야기 | 옴니버스 |
 | [samguk-yusa/](samguk-yusa/) | 삼국유사 | 옴니버스 |
