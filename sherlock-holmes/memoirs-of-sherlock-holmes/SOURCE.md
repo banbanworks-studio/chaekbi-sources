@@ -22,4 +22,4 @@
   9. tale-09.txt 그리스어 통역관 (The Greek Interpreter)
   10. tale-10.txt 해군 조약문 (The Naval Treaty)
   11. tale-11.txt 마지막 사건 (The Final Problem)
-- 비고: "The Adventure of the Cardboard Box"는 이 폴더에 없음 — his-last-bow 폴더에 포함 (아래 참조). 각색 시 이 판본 차이를 알고 있을 것.
+- 비고: "The Adventure of the Cardboard Box"는 이 폴더에 없음 — his-last-bow 폴더에 포함 (아래 참조). 각색 시 이 판본 차이를 알고 있을 것. — his-last-bow/SOURCE.md 비고와 대칭 기록. tale-02(카드보드 상자)는 1893년 최초 발표 시 Memoirs 수록이었으나 이후 판본에서 His Last Bow로 이동된 이력이 있어, 현재 collection 구성상 memoirs-of-sherlock-holmes에는 미수록.

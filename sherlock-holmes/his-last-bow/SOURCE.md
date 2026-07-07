@@ -17,4 +17,4 @@
 - 저작권 상태: 퍼블릭 도메인 (개별 eBook 8종 모두 확인)
 - 정규화 내역: CRLF → LF, 각 eBook의 PG 보일러플레이트(머리말/트랜스크라이버 크레딧/표제·저자면/맺음말) 제외 후 본문만 저장. 8개 개별 파일을 원 단행본 수록 순서(위 목록 순)대로 tale-01~08로 번호 부여.
 - 파일 단위: `tale-01.txt`~`tale-08.txt` (원 단행본 수록 순서)
-- 비고: **"The Adventure of the Cardboard Box"(tale-02)는 1893년 최초 발표 당시 Memoirs에 실렸다가 이후 판본에서 His Last Bow로 이동한 이력이 있음** — memoirs-of-sherlock-holmes/SOURCE.md의 비고와 대칭되는 내용이니 두 폴더 SOURCE.md 모두에 상호 참조 남길 것. (memoirs-of-sherlock-holmes 폴더는 아직 미생성 — 해당 폴더 작업 시 이 항목을 상호 참조할 것)
+- 비고: **"The Adventure of the Cardboard Box"(tale-02)는 1893년 최초 발표 당시 Memoirs에 실렸다가 이후 판본에서 His Last Bow로 이동한 이력이 있음** — memoirs-of-sherlock-holmes/SOURCE.md의 비고와 대칭되는 내용이니 두 폴더 SOURCE.md 모두에 상호 참조 남길 것. (memoirs-of-sherlock-holmes/SOURCE.md 비고에 동일 상호참조 기록 완료.)

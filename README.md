@@ -19,6 +19,8 @@
 - **옴니버스형 작품** (독립된 편/이야기의 모음): 편별 개별 파일,
   예) `tale-XXX.txt` (3자리 zero-pad)
   - 편 이름/번호 규칙은 작품마다 다를 수 있으므로 해당 작품의 `SOURCE.md`에 명시한다.
+- **단편형 원문** (독립 완결 단편, 챕터 분할 없음 — 각색 파이프라인 대상 아님): 원문 그대로 1파일 = 1작품.
+  파일명 `NN-저자-제목.md`, 메타데이터(제목/저자/연도/출처)는 각 파일 YAML 프론트매터에 자체 기록.
 
 ## 작품 목록
 
@@ -29,7 +31,18 @@
 | [monte-cristo/](monte-cristo/) | 몬테크리스토 백작 | 연재형 |
 | [honggildong/](honggildong/) | 홍길동전 | 연재형 |
 | [dracula/](dracula/) | 드라큘라 | 연재형 |
+| [sherlock-holmes/study-in-scarlet/](sherlock-holmes/study-in-scarlet/) | 주홍색 연구 | 연재형 |
+| [sherlock-holmes/sign-of-the-four/](sherlock-holmes/sign-of-the-four/) | 네 사람의 서명 | 연재형 |
+| [sherlock-holmes/hound-of-the-baskervilles/](sherlock-holmes/hound-of-the-baskervilles/) | 바스커빌 가문의 개 | 연재형 |
+| [sherlock-holmes/valley-of-fear/](sherlock-holmes/valley-of-fear/) | 공포의 계곡 | 연재형 |
+| [sherlock-holmes/adventures-of-sherlock-holmes/](sherlock-holmes/adventures-of-sherlock-holmes/) | 셜록 홈즈의 모험 | 옴니버스 |
+| [sherlock-holmes/memoirs-of-sherlock-holmes/](sherlock-holmes/memoirs-of-sherlock-holmes/) | 셜록 홈즈의 회상록 | 옴니버스 |
+| [sherlock-holmes/return-of-sherlock-holmes/](sherlock-holmes/return-of-sherlock-holmes/) | 셜록 홈즈의 귀환 | 옴니버스 |
+| [sherlock-holmes/his-last-bow/](sherlock-holmes/his-last-bow/) | 마지막 인사 | 옴니버스 |
+| [sherlock-holmes/case-book-of-sherlock-holmes/](sherlock-holmes/case-book-of-sherlock-holmes/) | 셜록 홈즈의 사건집 | 옴니버스 |
 | [liaozhai/](liaozhai/) | 요재지이 | 옴니버스 |
 | [ugetsu/](ugetsu/) | 우게츠 이야기 | 옴니버스 |
 | [samguk-yusa/](samguk-yusa/) | 삼국유사 | 옴니버스 |
 | [kim-yujeong/](kim-yujeong/) | 김유정 단편집 | 옴니버스 |
+| [wonmun-danpyeon/](wonmun-danpyeon/) | 원문 서고(근대 단편 20편) | 단편형(원문 그대로) |
+| [jeonuchi-jeon/](jeonuchi-jeon/) | 전운치전 | 연재형(단일 회차) |
