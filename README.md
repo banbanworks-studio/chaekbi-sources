@@ -31,15 +31,7 @@
 | [monte-cristo/](monte-cristo/) | 몬테크리스토 백작 | 연재형 |
 | [honggildong/](honggildong/) | 홍길동전 | 연재형 |
 | [dracula/](dracula/) | 드라큘라 | 연재형 |
-| [sherlock-holmes/study-in-scarlet/](sherlock-holmes/study-in-scarlet/) | 주홍색 연구 | 연재형 |
-| [sherlock-holmes/sign-of-the-four/](sherlock-holmes/sign-of-the-four/) | 네 사람의 서명 | 연재형 |
-| [sherlock-holmes/hound-of-the-baskervilles/](sherlock-holmes/hound-of-the-baskervilles/) | 바스커빌 가문의 개 | 연재형 |
-| [sherlock-holmes/valley-of-fear/](sherlock-holmes/valley-of-fear/) | 공포의 계곡 | 연재형 |
-| [sherlock-holmes/adventures-of-sherlock-holmes/](sherlock-holmes/adventures-of-sherlock-holmes/) | 셜록 홈즈의 모험 | 옴니버스 |
-| [sherlock-holmes/memoirs-of-sherlock-holmes/](sherlock-holmes/memoirs-of-sherlock-holmes/) | 셜록 홈즈의 회상록 | 옴니버스 |
-| [sherlock-holmes/return-of-sherlock-holmes/](sherlock-holmes/return-of-sherlock-holmes/) | 셜록 홈즈의 귀환 | 옴니버스 |
-| [sherlock-holmes/his-last-bow/](sherlock-holmes/his-last-bow/) | 마지막 인사 | 옴니버스 |
-| [sherlock-holmes/case-book-of-sherlock-holmes/](sherlock-holmes/case-book-of-sherlock-holmes/) | 셜록 홈즈의 사건집 | 옴니버스 |
+| [sherlock-holmes/](sherlock-holmes/) | 셜록 홈즈 전집 (장편 4 + 단편집 5, 폴더별 SOURCE.md 참조) | 연재형/옴니버스 혼재 |
 | [liaozhai/](liaozhai/) | 요재지이 | 옴니버스 |
 | [ugetsu/](ugetsu/) | 우게츠 이야기 | 옴니버스 |
 | [samguk-yusa/](samguk-yusa/) | 삼국유사 | 옴니버스 |
