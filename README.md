@@ -28,13 +28,13 @@
 |---|---|---|
 | [frankenstein/](frankenstein/) | 프랑켄슈타인 | 연재형 |
 | [pride-and-prejudice/](pride-and-prejudice/) | 오만과 편견 | 연재형 |
-| [monte-cristo/](monte-cristo/) | 몬테크리스토 백작 | 연재형 |
+| [count-of-monte-cristo/](count-of-monte-cristo/) | 몬테크리스토 백작 | 연재형 |
 | [honggildong/](honggildong/) | 홍길동전 | 연재형 |
 | [dracula/](dracula/) | 드라큘라 | 연재형 |
-| [sherlock-holmes/](sherlock-holmes/) | 셜록 홈즈 전집 (장편 4 + 단편집 5, 폴더별 SOURCE.md 참조) | 연재형/옴니버스 혼재 |
+| [sherlock-holmes-casebook/](sherlock-holmes-casebook/) | 셜록 홈즈 전집 (장편 4 + 단편집 5, 폴더별 SOURCE.md 참조) | 연재형/옴니버스 혼재 |
 | [liaozhai/](liaozhai/) | 요재지이 | 옴니버스 |
-| [ugetsu/](ugetsu/) | 우게츠 이야기 | 옴니버스 |
+| [ugetsu-monogatari/](ugetsu-monogatari/) | 우게츠 이야기 | 옴니버스 |
 | [samguk-yusa/](samguk-yusa/) | 삼국유사 | 옴니버스 |
-| [kim-yujeong/](kim-yujeong/) | 김유정 단편집 | 옴니버스 |
-| [wonmun-danpyeon/](wonmun-danpyeon/) | 원문 서고(근대 단편 20편) | 단편형(원문 그대로) |
+| [kim-yujeong-anthology/](kim-yujeong-anthology/) | 김유정 단편집 | 옴니버스 |
+| [korean-modern-anthology/](korean-modern-anthology/) | 원문 서고(근대 단편 20편) | 단편형(원문 그대로) |
 | [jeonuchi-jeon/](jeonuchi-jeon/) | 전운치전 | 연재형(단일 회차) |
