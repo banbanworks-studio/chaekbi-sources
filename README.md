@@ -33,3 +33,4 @@
 | [kim-yujeong-anthology/](kim-yujeong-anthology/) | 김유정 단편집 | 옴니버스 |
 | [korean-modern-anthology/](korean-modern-anthology/) | 원문 서고(근대 단편 20편) | 단편형(원문 그대로) |
 | [jeonuchi-jeon/](jeonuchi-jeon/) | 전운치전 | 연재형(단일 회차) |
+| [animal-farm/](animal-farm/) | 동물농장 | 연재형 (원문 `ch-*.txt`는 미국 관할 저작권으로 gitignore·로컬 전용, SOURCE.md만 공개) |
